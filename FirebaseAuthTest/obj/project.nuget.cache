@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWw6sQ0v0QNdwR3BQAmjmbSu8RL4Bh0b85mvKLYAE46fAAwnqxztzJI1VEDvCR3YyTbjEbbQIh5p9qAKpRhssA==",
+  "success": true,
+  "projectFilePath": "/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/FirebaseAuthTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/pairs/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/pairs/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/pairs/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/pairs/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/pairs/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

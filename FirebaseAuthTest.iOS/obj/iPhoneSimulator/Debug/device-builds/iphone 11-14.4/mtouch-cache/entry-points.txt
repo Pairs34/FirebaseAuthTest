@@ -1,0 +1,1264 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflags
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflagsCanSetHiddenFlag
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_locale_country_code
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.Core.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContextEx
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_GetUser
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.dll
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=BrotliDecoderCreateInstance
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_int_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_int_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_Int64_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_Int64_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaterniond_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaterniond_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_os_log
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Field=FirebaseAuthVersionNum
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorDomain
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoEmailKey
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoMultiFactorResolverKey
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoNameKey
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoUpdatedCredentialKey
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthStateDidChangeNotification
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FirebaseAuthVersionStr
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuth
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeInfo
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeSettings
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeURL
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAdditionalUserInfo
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthCredential
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthDataResult
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthSettings
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthTokenResult
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIREmailAuthProviderID
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIREmailPasswordAuthSignInMethod
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIREmailAuthProvider
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRFacebookAuthProviderID
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRFacebookAuthSignInMethod
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRFacebookAuthProvider
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGameCenterAuthProviderID
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGameCenterAuthSignInMethod
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGameCenterAuthProvider
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGitHubAuthProviderID
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGitHubAuthSignInMethod
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGitHubAuthProvider
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGoogleAuthProviderID
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGoogleAuthSignInMethod
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGoogleAuthProvider
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRPhoneMultiFactorID
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactor
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactorAssertion
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactorInfo
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactorResolver
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactorSession
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROAuthCredential
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROAuthProvider
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneAuthCredential
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRPhoneAuthProviderID
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRPhoneAuthSignInMethod
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneAuthProvider
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneMultiFactorAssertion
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneMultiFactorGenerator
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneMultiFactorInfo
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRTwitterAuthProviderID
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRTwitterAuthSignInMethod
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRTwitterAuthProvider
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUser
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUserMetadata
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUserProfileChangeRequest
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRApp
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRConfiguration
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROptions
+	/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/mtouch-cache/1-Link/Firebase.Core.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

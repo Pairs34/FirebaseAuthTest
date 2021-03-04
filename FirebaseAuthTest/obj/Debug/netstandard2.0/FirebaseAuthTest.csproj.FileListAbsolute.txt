@@ -1,0 +1,14 @@
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/bin/Debug/netstandard2.0/FirebaseAuthTest.deps.json
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/bin/Debug/netstandard2.0/FirebaseAuthTest.dll
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/bin/Debug/netstandard2.0/ref/FirebaseAuthTest.dll
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/bin/Debug/netstandard2.0/FirebaseAuthTest.pdb
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/FirebaseAuthTest.csprojAssemblyReference.cache
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/FirebaseAuthTest.AssemblyInfoInputs.cache
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/FirebaseAuthTest.AssemblyInfo.cs
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/FirebaseAuthTest.csproj.CoreCompileInputs.cache
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/FirebaseAuthTest.dll
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/ref/FirebaseAuthTest.dll
+/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest/obj/Debug/netstandard2.0/FirebaseAuthTest.pdb

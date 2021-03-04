@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4F0397DA-7140-4628-BFF8-622FBA03084C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirebaseAuthTest/MainPage.xaml">
+    <Files>
+      <File FileName="FirebaseAuthTest/MainPage.xaml" Line="17" Column="34" />
+      <File FileName="FirebaseAuthTest.iOS/AppDelegate.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirebaseAuthTest" expanded="True" selected="True">
+            <Node name="FirebaseAuthTest" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="FirebaseAuthTest.iOS" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FirebaseAuthTest.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.FirebaseAuthTest.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9CDC1D3B-C748-4520-B069-4DC15A9BD9E0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

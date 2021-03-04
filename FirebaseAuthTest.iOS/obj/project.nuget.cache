@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NfPp4uzxngk0Dl+4bjnUF0V0ilpPeH4vupbU4WCmurDLobxpJ2AW/MWCDq9RlMQX77DjuzdhvS1khBN2lbGYaQ==",
+  "success": true,
+  "projectFilePath": "/Users/pairs/Projects/FirebaseAuthTest/FirebaseAuthTest.iOS/FirebaseAuthTest.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/pairs/.nuget/packages/xamarin.build.download/0.10.0/xamarin.build.download.0.10.0.nupkg.sha512",
+    "/Users/pairs/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/pairs/.nuget/packages/xamarin.firebase.ios.auth/6.9.2/xamarin.firebase.ios.auth.6.9.2.nupkg.sha512",
+    "/Users/pairs/.nuget/packages/xamarin.firebase.ios.core/6.10.4/xamarin.firebase.ios.core.6.10.4.nupkg.sha512",
+    "/Users/pairs/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirebaseAuthTest.MainPage">
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <OnPlatform.Platforms>
+                <On Platform="iOS" Value="0,35,0,0"/>
+            </OnPlatform.Platforms>
+        </OnPlatform>
+    </ContentPage.Padding>
+
+    <StackLayout Orientation="Vertical">
+        <Entry x:Name="email" Placeholder="Mail Adress"></Entry>
+        <Entry x:Name="pass" Placeholder="Mail Adress" IsPassword="True" ></Entry>
+        <Button x:Name="btnLogin" Clicked="btnLogin_Clicked" Text="Login"></Button>
+        <Button x:Name="btnRegister" Clicked="btnRegister_Clicked" Text="Register"></Button>
+    </StackLayout>
+
+</ContentPage>
